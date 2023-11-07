@@ -8,17 +8,10 @@ Compromising windows using Metasploit
 To Compromise windows using Metasploit .
 
 ## DESIGN STEPS:
-### Step 1:
-Install kali linux either in partition or virtual box or in live mode
-
-### Step 2:
-Investigate on the various categories of tools as follows:
-
-### Step 3:
-Open terminal and try execute some kali linux commands
-
+### Step 1: Install kali linux either in partition or virtual box or in live mode
+### Step 2: Investigate on the various categories of tools as follows
+### Step 3: Open terminal and try execute some kali linux commands
 ## EXECUTION STEPS AND ITS OUTPUT:
-
 Find the attackers ip address using ifconfig
 ## OUTPUT:
 ![image](https://github.com/Priya-Loganathan/Compromising-windows-using-Metasploit/assets/121166075/241e38d4-48ea-4e84-844c-203800b748ab)
